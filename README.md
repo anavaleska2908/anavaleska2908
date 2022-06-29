@@ -6,10 +6,12 @@
 - 📫 How to reach me: avaleska2908@gmail.com
 - 🃏 Linkedin: https://www.linkedin.com/in/anavaleskasantos/
 - 😊 Pronouns: she / her
+
 <div align="center">
   <a href="https://github.com/anavaleska2908">
-  <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=anavaleska2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=anavaleska2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
   <h2>Tecnologies</h2>
 <div style="display: inline_block"><br>
   <h3>Front end</h3>
