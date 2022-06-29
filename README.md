@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/anavaleska2908">
   <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=anavaleska2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anavaleska2908)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anavaleska2908)
 </div>
   <h2>Tecnologies</h2>
 <div style="display: inline_block"><br>
