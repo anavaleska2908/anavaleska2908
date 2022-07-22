@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on at the moment i am working at kenzie academy Brazil as a Peer coach
 - 🚞 I'm looking for new ways
 - 💡 I'm currently working with front-end
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: avaleska2908@gmail.com
 - 🃏 Linkedin: https://www.linkedin.com/in/anavaleskasantos/
 - 😊 Pronouns: she / her
