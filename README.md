@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: avaleska2908@gmail.com
 - 🃏 Linkedin: https://www.linkedin.com/in/anavaleskasantos/
+- 🃏 Portfólio: https://anavaleskasantos-portfolio.vercel.app/
 - 😊 Pronouns: she / her
 
 <div align="center">
