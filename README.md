@@ -1,8 +1,8 @@
 ### Hi there 🖖,you can call me Ana Valeska Santos
-- 🔭 I’m currently working on at the moment i am working at kenzie academy Brazil as a Peer coach
+- 🔭 I’m currently opent to work
 - 🚞 I'm looking for new ways
-- 💡 I'm currently working with front-end
-- 🌱 I’m currently learning MongoDB
+- 💡 I'm currently working with fullstack
+- 🌱 I’m currently deepening my knowledge in react and python
 - 📫 How to reach me: avaleska2908@gmail.com
 - 🃏 Linkedin: https://www.linkedin.com/in/anavaleskasantos/
 - 🃏 Portfólio: https://anavaleskasantos-portfolio.vercel.app/
