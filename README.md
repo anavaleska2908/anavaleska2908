@@ -2,43 +2,52 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E94D5F&&size=35&center=true&vCenter=true&width=1000&lines=Hey,+guys+🖖!+My+name+is+Ana+Valeska;Take+a+look,+everyone+is+welcome!:%29)](https://git.io/typing-svg)
 
-- 🔭 I am currently open to an internship or job
-- 💡 I'm studying Digital Games Technology at Uninter
-- 🌱 And, in my spare time, I have been deepening my knowledge in Unity, C# and 3D modeling
+- 🔭 I am currently open to an internship or job.
+- 💡 I am improving my knowledge in Fullstack Web Development.
+- 🌱 And in my free time I like to improve my English, read, watch series and things like that.
 - 📫 You can get in touch: <a href="https://www.instagram.com/anavaleskasantos/" target="_blank"><img height="20" width="20" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
   <a href = "mailto:avaleska2908@gmail.com"><img height="20" width="20" align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anavaleskasantos/" target="_blank"><img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-- 🃏 Portfólio: Due to the recent change of area, it is under reconstruction!
+- 🃏 Portfólio: Under construction.
 - 😊 Pronouns: she / her
 
 <h2>Tecnologies</h2>
 <div style="display: inline_block">
-  <h3>Game Engine</h3>
-  <img align="center" alt="AnaValeska-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"> -
-  <img align="center" alt="AnaValeska-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+  <h3>Frontend:</h3>
+  <img align="center" alt="AnaValeska-Reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> -
+  <img align="center" alt="AnaValeska-Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"> -
+  <img align="center" alt="AnaValeska-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> -
+  <img align="center" alt="AnaValeska-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> -
+  <img align="center" alt="AnaValeska-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> -
+  <img align="center" alt="AnaValeska-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
 <hr>
 <div style="display: inline_block">
-  <h3>Programming Language</h3>
-  <img align="center" alt="AnaValeska-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> -            
-  <img align="center" alt="AnaValeska-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h3>Backend:</h3>
+  <img align="center" alt="AnaValeska-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> -            
+  <img align="center" alt="AnaValeska-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> - 
+  <img align="center" alt="AnaValeska-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> -
+  <img align="center" alt="AnaValeska-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"> - 
+  <img align="center" alt="AnaValeska-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> - 
+  <img align="center" alt="AnaValeska-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"> - 
+  <img align="center" alt="AnaValeska-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  
 </div>
 <hr>
 <div style="display: inline_block">
-  <h3>Software 2D e 3D</h3>
-  <img align="center" alt="AnaValeska-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/> -            
-  <img align="center" alt="AnaValeska-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"> -
-  <img align="center" alt="AnaValeska-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
-</div>
-<hr>
-<div style="display: inline_block">
-  <h3>Anothers</h3>
-  <img align="center" alt="AnaValeska-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> -
-  <img align="center" alt="AnaValeska-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">-
+  <h3>Other programs and applications:</h3>
+  <img align="center" alt="AnaValeska-Git" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> -
+  <img align="center" alt="AnaValeska-GitHub" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> -
+  <img align="center" alt="AnaValeska-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"> - 
+  <img align="center" alt="AnaValeska-Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"> -  
+  <img align="center" alt="AnaValeska-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"> - 
+    <img align="center" alt="AnaValeska-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"> - 
+    <img align="center" alt="AnaValeska-Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"> - 
   <img align="center" alt="AnaValeska-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> -
   <img align="center" alt="AnaValeska-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> -
-  <img align="center" alt="AnaValeska-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">-
-  <img align="center" alt="AnaValeska-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">-
+  <img align="center" alt="AnaValeska-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"> -
   <img align="center" alt="AnaValeska-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
 <hr>
